@@ -1,0 +1,5 @@
+GATSBYJS + REACT + FRAMER MOTION
+
+1. git clone
+2. yarn install or npm install
+3. gatsby develop
